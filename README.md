@@ -1,4 +1,4 @@
-<h1 align="center">GITHUB + VS CODE </h1>
+<h1 align="center">GITHUB and VS CODE </h1>
 
 <h2 align="center">⭐ STAR THIS REPOSITORY THIS WILL PAY OF MY WORK </h2>
 <br>
